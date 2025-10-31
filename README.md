@@ -1,16 +1,24 @@
-## Hi there 👋
+<pre>
+⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
-<!--
-**nzcoah/nzcoah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🜂  **noah**
+└─ fullstack, software, and ai developer  
+   ↳ building from curiosity ⚙︎
 
-Here are some ideas to get you started:
+⟣ currently learning: swift
+⟣ creating: lyla · recatch  
+⟡ from: washington dc  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
+
+╭──────────────╮
+│   focus:     │
+│   ▸ ai systems     │
+│   ▸ automation     │
+│   ▸ clean ui       │
+╰──────────────╯
+
+⋆───────────────────────────────⋆
+🧠  art • design • autonomy • intent
+⋆───────────────────────────────⋆
+</pre>
