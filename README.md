@@ -7,13 +7,13 @@
 │ 
 ├────────────────────────────────────────────┤
 │ 
-│ currently learning: deep learning &  │
+│ currently learning: deep learning & the mathematics behind it │
 │ creating: manysocial (the best creator marketing platform) │
 │ 
 ├────────────────────────────────────────────┤
 │ 
 │ focus & interests │
-│ ▸ machine learning │
+│ ▸ machine learning (specifically reinforcement learning) │
 │ ▸ user generated content │
 │ ▸ clean ui │
 │ 
