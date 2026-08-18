@@ -7,17 +7,17 @@
 │ 
 ├────────────────────────────────────────────┤
 │ 
-│ currently learning: swift · mobile dev │
-│ creating: recatch (absolute visitor intelligence) │
+│ currently learning: deep learning &  │
+│ creating: manysocial (the best creator marketing platform) │
 │ 
 ├────────────────────────────────────────────┤
 │ 
-│ focus │
-│ ▸ ai systems │
-│ ▸ automation │
+│ focus & interests │
+│ ▸ machine learning │
+│ ▸ user generated content │
 │ ▸ clean ui │
 │ 
 └────────────────────────────────────────────┘
 
-⟢ code · design · autonomy · intent ⟣
+⟢ create whatever you want. immortalize yourself. ⟣
 </pre>
